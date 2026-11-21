@@ -2,9 +2,9 @@
 
 An Android app for following saved searches on Mercari Japan. It collects product results in one feed, with photos, prices, favorites and hidden items. You can also turn on product notifications or add the feed to your home screen.
 
-[Download 0.8.6 APK](https://github.com/Froas/mercari-monitor/releases/download/v0.8.6/mercari-monitor-0.8.6.apk) · [Release notes](https://github.com/Froas/mercari-monitor/releases/tag/v0.8.6) · Android 9+ · 64-bit
+APK downloads are currently unavailable.
 
-The app needs a running server and a private pairing code from its operator. This APK connects to the server it was built for; installing it alone does not provide server access.
+The app needs a running server and a private pairing code from its operator. Version 0.8.6 connects to the server it was built for.
 
 ## Setup
 
